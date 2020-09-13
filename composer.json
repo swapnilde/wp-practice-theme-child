@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/acme-child",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+	{
+	  "name": "jack",
+	  "email": "email@example.com"
+	}
+  ],
+  "require": {
+
+  },
+  "require-dev": {
+	"squizlabs/php_codesniffer": "3.5.6",
+	"wp-coding-standards/wpcs": "2.3.0"
+  }
+}
